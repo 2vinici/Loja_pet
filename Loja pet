@@ -1,0 +1,51 @@
+<doctype html>
+    <html>
+    <head>
+        <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+    
+        <title>`loja de animais</title>
+        
+    </head>
+    <body>
+        <h1>Conheça o seu futuro doguinho </h1>
+        <h2>Escolha seu melhor amigo</h2>
+        <p>Ninguem resiste essa carinha!</p>
+        <img src="https://raw.githubusercontent.com/Rildoprofessor/pds/main/loja_pet/vs1.0/img/dog.jpg" alt="" />
+        <nav class="">
+            <ul>
+                <li><a href="Bulldog">ir para a seção bulldog</a></li>
+                <li><a href="Pastor Alemão ">ir para a seção Pastor Alemão</a></li>
+                <li><a href="vira-latas">ir para a seção vira-latas</a></li>
+            </ul>
+            
+        </nav>
+        <li>Bulldog</li>
+     <img src="bulldog.jpg" alt="">
+       <p>Bulldog:O bulldog e uma raça de cão conhecida por sua aparencia distitiva, com uma cabeça larga e
+        enrugada e um corpo compacto e musculoso.Eles tem um temperamento calmo e afetuoso, sendo 
+        otimos companheiros de familia.Os bulldogs geralmente são dóceis mas podem ser teimosos em 
+        certas situações.Eles podem ter uma propensão a problemas de saude devido á sua formação fisica ,como 
+        dificuldades respiratórias.Sao cães de porte medio e requere cuidados regulares com sua pele em 
+        suas drobas facias.</p> 
+       <li>Pastor Alemão</li>
+       <img src="pastor alemão.jpg" alt="">
+       <p>pastor Alemão:O Pastor Alemão é uma raça de cão versátil e inteligente.Eles são conhecidos por sua 
+        lealdade,coragem e habilidades de trabalho.São cães de porte médio a grande, com uma aparençia
+        atlétiva e pelagem densa. Os Pastores Alemães são frequentemente usado como cães de trabalho,
+        como cães de serviços,cães de busca e resgate,e também como cães de companhia.Eles saõ altamente
+        treinavies,leais à sua familia e protetores naturais.Além disso,são conhecidos por sua energia e 
+        necesidade de atividades fisica e mental adequada.</p>
+    
+        <li>Vira-latas</li>
+        <img src="vira_lata.jpg" alt="">
+        <p>Cão Vira-latas: O cão vira lata ,também conhecido como SRD(Sem Raça Definida) ou cão  de rua,
+         um cão de origem mista,sem uma raca especifica.Eles podem variar em tamanho,aparência e
+         temperamento,dependendo de sua composição genética.Os cães vira-latas podem apresentar uma 
+         grande diversidade de caracteristica fisicas e comportamentais,tornando-os únicos e especias.Eles
+        geralmente são animais leais,inteligentes e adptaveis.Os cães vira-latas são amplamente adotados
+        como animais de estimacão e podem trazer muita alegria e amor aos lares onde são acolhidos.  </p>
+    
+    
+    
+    </body>
+    </html>
