@@ -1,0 +1,158 @@
+<!DOCTYPE HTML>
+<html>
+    <head>
+        <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+    
+        <title>PET SHOP SÓ ALEGRIA</title>
+        <style>
+        #Box1{
+            width: 100%;
+            height: 500px;
+            background-color:#5644a4;
+            border: 2px solid black;
+        }
+        #Box2{
+            width: 100%;
+            height: 60%;
+            background-color:#8f533b;
+            border: 2px solid black;  
+        }
+        h1{
+            text-align:center;
+            font-size:85px;
+            color:white;
+            font-family:Serif;
+        }
+        h3{
+          text-align: center;
+          color: white;
+          font-family:Sans-Serif;
+        }
+        nav{
+            text-align: center;
+          font-family:Sans-Serif;
+        }
+        a{
+            color: white;
+        }
+        img{
+            border-radius:100px;
+            display: block;
+            margin: 0 auto;
+        }
+        .imgcard2{
+            text-align: horizontal;
+            border: 2px solid black;
+        }
+        .imgcard1{
+            text-align: center;
+            border: 2px solid black;
+        }
+        h2{
+            text-align: center;
+        }
+        </style>
+        
+    </head>
+<body>
+    <div id="Box1">
+        <br>
+        <br>
+<h1>Loja de pets</h1>
+        <br>
+        <br>
+<h3>O melhor lugar para encontra seu companheiro</h3>
+<nav>
+        <br>
+        <br>
+        <br>
+        <br>
+ <a href="ir para seção home">Home</a>
+ <a href="ir para seção produtos">Produtos</a>
+ <a href="ir para seção serviços">Serviços</a>
+ <a href="ir para seção avaliar">Avaliar</a>
+    </nav>
+ 
+    </div>
+    <img src="https://tse1.mm.bing.net/th?id=OIP.KQLHBdv5DLS6o0hv26bc0QHaFj&pid=Api&P=0&h=180" alt="imagem inicial"/>
+    <h2>HOME</h2>
+    <p>Bem-vindo a nossa loja de pets! aqui voçê encontrará uma ampla variedadede produtos e serviços para cuidar do seu amado animal de estimação.Nossa missão é profissional o melhor atendimento é oferecer produtos de qualidade para garantir o bem estar dos seus pets.</p>
+    <H2>PRODUTOS</H2>
+    <nav>
+    <div class="imgcard1">
+    <img src="https://tse3.mm.bing.net/th?id=OIP.fTeYnQzCd0ME85Z2IZ-ewQHaHa&pid=Api&P=0&h=180" alt="produto 1"/>
+    <h4>Spitz-alemão-anão</h4>
+    <p>Área de origem: Alemanha
+Função Original: companhia
+Tamanho médio do macho: Alt: 20-27 cm, Peso: 1-3 kg
+Tamanho médio da fêmea: Alt: 20-27 cm, Peso: 1-3 kg</p>
+<strong>Preço:R$ 2.000 e R$ 12.000</strong>
+    </div>
+    <div class="imgcard1">
+    <img src="https://tse2.mm.bing.net/th?id=OIP.nxNVZKZ9oRDML8B5_HdeYAHaFe&pid=Api&P=0&h=180" alt="produto 2" />
+ <h4>Beagle</h4>
+    <p>Altura: 36 a 41 cm para machos e 33 a 38 cm para fêmeas
+Peso: 10 a 16 kg para machos e 8 a 11 kg para fêmeas
+Personalidade: Amável, Determinado, Gentil, Inteligente
+Expectativa de vida: 10 a 12 anos</p>
+<strong>Preço:R$ 1800 - R$ 3800 reais</strong>
+ </div>
+    <div class="imgcard1">
+        
+    <img src="https://tse2.mm.bing.net/th?id=OIP.KBEiPMp9dCYclqIz9-2VkgHaFj&pid=Api&P=0&h=180" alt="produto 3" />
+    <h4>Malamute-do-alasca</h4>
+    <p>Família: Spitz, Setentrional
+Área de origem: Alaska (EUA)
+Função Original: Puxar trenós pesados, Caça de grandes animais
+Tamanho médio dos machos:
+Altura: 0,63 ; Peso: 35 – 40 kg
+Tamanho médio das fêmeas
+Altura: 0,55; Peso: 25 – 35 kg</p>
+<strong>Preço:R$ 2.000 – R$ 3.500 reais</strong>
+    </div>
+    <H2>SERVIÇOS</H2>
+    <p>Alem dos produtos oferecemos uma variedade de serviços para cuidar dos seus pets.Nossos Serviços incluem:</p>
+    <ul>
+        <li>Banho e tosa</li>
+        <li>Consultas veterinarias</li>
+        <li>Vacinação</li>
+        <li>Hotel para pets</li>
+        <li>Passeio é cuidados diarios</li>
+    </ul>
+    <p>Entre em contato conosco para mais informações sobre nosssos serviços é agendamento.</p>
+    <H2>MARCAS</H2>
+    <p>Trabalhamos com as melhores marcas do mercado para garantir a qualidade é segurança dos produtos que oferecemos.Algumas das marcas que voçe encotrara em nossa loja incluem</p>
+    <ul>
+        <li>Kelco</li>
+        <li>Pethy Group</li>
+        <li>Royal canin</li>
+        <li>zoetis</li>
+    </ul>
+    <H2>CONTATO</H2>
+    Estamos sempre disponiveis para esclarecer suas duvidas e atender suas necessitades.Entre em contato conosco pelos seguintes meios.
+    <ul>
+        <li>Telefone:xxxx-xxxx</li>
+        <li>Email:info@lojapets.com</li>
+        <li>Endereço:Rua exemplo,123,cidade,estado</li>
+    </ul>
+    <div id="Box2">
+        <div id="">
+           <h3>Sobre nós</h3>
+           <p>texto sobre a loja e sua missão</p>
+           <h3>Horario de atendimento</h3>
+           <p></p>Segunda a sexta:9h ás 18h</p>
+           <p>sábados:9h ás 14h</p>
+           <h3>Localização</h3>
+           <p>Endereço:rua exemplo,123</p>
+           <p>Cidade,estado-CEP.12345-678</p>
+           <li><a href="#"><img src="https://tse2.mm.bing.net/th?id=OIP.aByvAl4Fl4Dk3N9fA3IudwHaFM&pid=Api&P=0&h=180" alt="YOU tube"></a></li>
+           <li><a href="#"><img src="https://tse4.mm.bing.net/th?id=OIP.QHODby_bS81-x2of8vCIhgHaHa&pid=Api&P=0&h=180" alt="Facebook"></a></li>
+           <li><a href="#"><img src="https://tse4.mm.bing.net/th?id=OIP.tiAv_-lsGi0k1Q_7XwyZtQHaHa&pid=Api&P=0&h=180" alt="Instagram"></a></li>
+            <p>@2023 loja pet.Todos os direitos reservados</p>
+        </div>
+    </div>
+    
+</body>
+</html>
+
+
